@@ -1,4 +1,4 @@
-# pytone.mark.six.eliminate
+# python.mark.six.eliminate
 
 ## 项目介绍
 {**为了防止被天草河蟹，看标题就能明白,以下简称ms}
