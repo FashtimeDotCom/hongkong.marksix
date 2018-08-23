@@ -56,20 +56,7 @@
     <favorites_list name="NumberPperiods" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="448">
-                <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -213,23 +200,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="python-Mark.Six" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-Mark.Six" type="462c0819:PsiDirectoryNode" />
+              <item name="pytone.mark.six.eliminate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pytone.mark.six.eliminate" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="python-Mark.Six" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-Mark.Six" type="462c0819:PsiDirectoryNode" />
+              <item name="pytone.mark.six.eliminate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pytone.mark.six.eliminate" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -589,22 +576,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="800" y="193" width="1623" height="992" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="4" sideWeight="0.26469004" weight="0.22665006" />
       <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.45767716" side_tool="true" weight="0.30962962" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" x="0" y="152" width="1046" height="574" id="Run" order="5" sideWeight="0.47933072" side_tool="true" weight="0.4311111" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" sideWeight="0.49811321" weight="0.2990249" />
       <window_info anchor="bottom" id="Python Console" order="9" sideWeight="0.5305118" weight="0.40888888" />
-      <window_info anchor="bottom" x="0" y="152" width="1046" height="574" id="Run" order="5" sideWeight="0.47933072" side_tool="true" weight="0.4311111" />
       <window_info anchor="right" id="Terminal" order="6" sideWeight="0.43367347" weight="0.20355731" />
-      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.4642857" weight="0.29147983" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.4642857" visible="true" weight="0.29147983" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.328722" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.25380117" />
       <window_info anchor="right" x="740" y="418" width="80" height="42" id="SciView" internal_type="SLIDING" order="4" sideWeight="0.6059565" type="WINDOWED" weight="0.36845347" />
       <window_info id="Structure" order="1" sideWeight="0.5539972" side_tool="true" weight="0.20093216" />
-      <window_info id="Favorites" order="0" sideWeight="0.53571427" side_tool="true" weight="0.21583514" />
       <window_info anchor="bottom" id="Debug" order="11" sideWeight="0.5206693" weight="0.6103704" />
+      <window_info id="Favorites" order="0" sideWeight="0.53571427" side_tool="true" weight="0.21524663" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="3" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -613,7 +600,6 @@
       <window_info anchor="right" x="0" y="0" width="590" height="1246" id="Documentation" order="7" sideWeight="0.5409505" weight="0.36254296" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.25461254" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">

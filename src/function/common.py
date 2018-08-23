@@ -31,7 +31,7 @@ class Common:
     @staticmethod
     def getyeardata(y):
         # 读取文件
-        fo = open(os.getcwd() + "/recods/" + str(y) + ".json", 'r+', encoding='utf8')
+        fo = open(os.getcwd() + "/records/" + str(y) + ".json", 'r+', encoding='utf8')
         c = fo.read()
         fo.close()
         return json.loads(c)

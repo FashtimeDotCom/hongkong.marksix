@@ -131,7 +131,7 @@ def ConvertSoupObject(c):
 
 
 def OpenWiteFile(c, n):
-    fo = open(os.getcwd() + "/recods/" + str(n) + ".json", 'w', encoding='utf8')
+    fo = open(os.getcwd() + "/records/" + str(n) + ".json", 'w', encoding='utf8')
     s = FormatJson(c, 4).encode('utf-8').decode('unicode_escape')
     fo.write(s)
     print(str(n) + ' year data writed completed')
@@ -221,7 +221,7 @@ def Main():
             pass
     pass
     print(alldata)
-    fo = open(os.getcwd() + "/recods/allyeardata.txt", 'w', encoding='utf8')
+    fo = open(os.getcwd() + "/records/allyeardata.txt", 'w', encoding='utf8')
     fo.write(alldata)
     fo.close()
 
