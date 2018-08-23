@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de463ce5-3377-4bb6-b318-b0bf4edd100f" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PermutationAndCombination$infinitecollision7client.coverage" NAME="infinitecollision7client Coverage Results" MODIFIED="1516205731246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/formulaheader" />
+    <SUITE FILE_PATH="coverage/PermutationAndCombination$infinitecollision4.coverage" NAME="infinitecollision4 Coverage Results" MODIFIED="1515665420517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/formulaheader" />
+    <SUITE FILE_PATH="coverage/PermutationAndCombination$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1513437276594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider" />
+    <SUITE FILE_PATH="coverage/PermutationAndCombination$MathColor.coverage" NAME="MathColor Coverage Results" MODIFIED="1513761397978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PermutationAndCombination$infinitecollision7.coverage" NAME="infinitecollision7server Coverage Results" MODIFIED="1516119964685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/formulaheader" />
+    <SUITE FILE_PATH="coverage/PermutationAndCombination$SpiderMarkSixData.coverage" NAME="SpiderMarkSixData Coverage Results" MODIFIED="1530628679446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/PermutationAndCombination$client.coverage" NAME="client Coverage Results" MODIFIED="1516172534208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Other" />
+    <SUITE FILE_PATH="coverage/PermutationAndCombination$Main.coverage" NAME="infinitecollision2 Coverage Results" MODIFIED="1515063435816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/formulaheader" />
+    <SUITE FILE_PATH="coverage/PermutationAndCombination$infinitecollision7server.coverage" NAME="infinitecollision7server Coverage Results" MODIFIED="1516205725093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/formulaheader" />
+    <SUITE FILE_PATH="coverage/NumberPperiods$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1501509894008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/PermutationAndCombination$MarkSixData.coverage" NAME="MarkSixData Coverage Results" MODIFIED="1513515136849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/PermutationAndCombination$CorrectRateOperator.coverage" NAME="CorrectRateOperator Coverage Results" MODIFIED="1514970230574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/PermutationAndCombination$server.coverage" NAME="server Coverage Results" MODIFIED="1516176535400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Other" />
+    <SUITE FILE_PATH="coverage/PermutationAndCombination$main.coverage" NAME="main Coverage Results" MODIFIED="1524819893157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PermutationAndCombination$infinitecollision3.coverage" NAME="infinitecollision3 Coverage Results" MODIFIED="1515592338951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/formulaheader" />
+    <SUITE FILE_PATH="coverage/PermutationAndCombination$infinitecollision5.coverage" NAME="infinitecollision5 Coverage Results" MODIFIED="1516002582803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/formulaheader" />
+    <SUITE FILE_PATH="coverage/PermutationAndCombination$MathEvenOrBill.coverage" NAME="MathEvenOrBill Coverage Results" MODIFIED="1513761531701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PermutationAndCombination$infinitecollision2.coverage" NAME="infinitecollision2 Coverage Results" MODIFIED="1515553837876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/formulaheader" />
+    <SUITE FILE_PATH="coverage/PermutationAndCombination$MathTail.coverage" NAME="MathTail Coverage Results" MODIFIED="1513763301804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PermutationAndCombination$queue.coverage" NAME="client Coverage Results" MODIFIED="1516039230215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Other" />
+    <SUITE FILE_PATH="coverage/PermutationAndCombination$infinitecollision6.coverage" NAME="infinitecollision6 Coverage Results" MODIFIED="1516005443999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/formulaheader" />
+    <SUITE FILE_PATH="coverage/PermutationAndCombination$Math.coverage" NAME="MathEvenOrBill Coverage Results" MODIFIED="1513611154871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints>
+      <file url="file://$PROJECT_DIR$/src/collisionmath/leftandright.py" />
+    </disable_hints>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="NumberPperiods" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="448">
+                <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>xrange</find>
+      <find>list(</find>
+      <find>writ</find>
+      <find>file</find>
+      <find>start</find>
+      <find>Data2017</find>
+      <find>number_data</find>
+      <find>总共</find>
+      <find>array</find>
+      <find>middle</find>
+      <find>getpid</find>
+      <find>实际运</find>
+      <find>outprintmaxvalue</find>
+      <find>当前</find>
+      <find>shutdown</find>
+      <find>pid</find>
+      <find>async</find>
+      <find>poo</find>
+      <find>self</find>
+      <find>getnumbertype</find>
+      <find>except</find>
+      <find>queue</find>
+      <find>_print</find>
+      <find>write</find>
+      <find>0.15</find>
+      <find>killtail</find>
+      <find>sleep</find>
+      <find>尾数</find>
+      <find>__isexeckillnumber</find>
+      <find>dumps</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>urllib3</replace>
+      <replace>,</replace>
+      <replace>jo</replace>
+      <replace>d</replace>
+      <replace>_Common</replace>
+      <replace>common</replace>
+      <replace>Common</replace>
+      <replace>self.lastsetright</replace>
+      <replace>self.lastseterror</replace>
+      <replace>range</replace>
+      <replace>AllData</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/collisionmath/leftandright.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/program.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/marksixdata.py" />
+        <option value="$PROJECT_DIR$/src/data/__init__.py" />
+        <option value="$PROJECT_DIR$/src/math/mathcolor.py" />
+        <option value="$PROJECT_DIR$/src/math/mathevenorbill.py" />
+        <option value="$PROJECT_DIR$/recods/2016.json" />
+        <option value="$PROJECT_DIR$/recods/2017.json" />
+        <option value="$PROJECT_DIR$/src/mathother.py" />
+        <option value="$PROJECT_DIR$/src/mathhead.py" />
+        <option value="$PROJECT_DIR$/src/mathtail.py" />
+        <option value="$PROJECT_DIR$/src/mathformula.py" />
+        <option value="$PROJECT_DIR$/src/data/marksixdata.py" />
+        <option value="$PROJECT_DIR$/src/function/__data__.py" />
+        <option value="$PROJECT_DIR$/src/function/data.py" />
+        <option value="$PROJECT_DIR$/src/mathcolor.py" />
+        <option value="$PROJECT_DIR$/src/mathevenorbill.py" />
+        <option value="$PROJECT_DIR$/src/mathkillformula.py" />
+        <option value="$PROJECT_DIR$/src/mathkillfixed.py" />
+        <option value="$PROJECT_DIR$/src/collisionmath/leftandrightl.py" />
+        <option value="$PROJECT_DIR$/src/formulaheader/readme.txt" />
+        <option value="$PROJECT_DIR$/src/function/__init__.py" />
+        <option value="$PROJECT_DIR$/src/__init__.py" />
+        <option value="$PROJECT_DIR$/src/formulaheader/__init__.py" />
+        <option value="$PROJECT_DIR$/src/formulaheader/correctrateoperator.py" />
+        <option value="$PROJECT_DIR$/src/formulaheader/infinitecollision.py" />
+        <option value="$PROJECT_DIR$/src/formulaheader/infinitecollision2.py" />
+        <option value="$PROJECT_DIR$/src/formulaheader/infinitecollision3.py" />
+        <option value="$PROJECT_DIR$/src/Other/queue.py" />
+        <option value="$PROJECT_DIR$/src/Other/queues.py" />
+        <option value="$PROJECT_DIR$/src/formulaheader/infinitecollision4.py" />
+        <option value="$PROJECT_DIR$/src/formulaheader/infinitecollision5.py" />
+        <option value="$PROJECT_DIR$/src/formulaheader/infinitecollision6.py" />
+        <option value="$PROJECT_DIR$/src/Other/Server.py" />
+        <option value="$PROJECT_DIR$/src/Other/client.py" />
+        <option value="$PROJECT_DIR$/src/Other/manager.py" />
+        <option value="$PROJECT_DIR$/src/Other/job.py" />
+        <option value="$PROJECT_DIR$/src/Other/server.py" />
+        <option value="$PROJECT_DIR$/src/Other/worker.py" />
+        <option value="$PROJECT_DIR$/src/formulaheader/infinitecollision7.py" />
+        <option value="$PROJECT_DIR$/src/Other/slave.py" />
+        <option value="$PROJECT_DIR$/src/Other/master.py" />
+        <option value="$PROJECT_DIR$/src/formulaheader/infinitecollision7client.py" />
+        <option value="$PROJECT_DIR$/src/formulaheader/infinitecollision7server.py" />
+        <option value="$PROJECT_DIR$/src/function/formula.py" />
+        <option value="$PROJECT_DIR$/src/function/common.py" />
+        <option value="$PROJECT_DIR$/src/killmath/mathkillformula.py" />
+        <option value="$PROJECT_DIR$/src/function/marksixdata.py" />
+        <option value="$PROJECT_DIR$/src/collisionmath/leftandright.py" />
+        <option value="$PROJECT_DIR$/Documents/基础信息.txt" />
+        <option value="$PROJECT_DIR$/src/program.py" />
+        <option value="$PROJECT_DIR$/src/spider/spidermarksixdata.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="800" />
+    <option name="y" value="193" />
+    <option name="width" value="1623" />
+    <option name="height" value="992" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python-Mark.Six" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-Mark.Six" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-Mark.Six" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-Mark.Six" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///media/stevelee/PUBFILE/MyCode/PermutationAndCombination/src/formulaheader/infinitecollision7client.py" />
+    <property name="ToolWindowSciView.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/formulaheader" />
+      <recent name="G:\MyCode\PermutationAndCombination\src\formulaheader" />
+      <recent name="E:\PermutationAndCombination\src\function" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/function" />
+      <recent name="$PROJECT_DIR$/src/killmath" />
+      <recent name="E:\PermutationAndCombination\src\spider" />
+      <recent name="E:\PermutationAndCombination\src" />
+      <recent name="E:\PermutationAndCombination\src\math" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.SpiderMarkSixData">
+    <configuration default="true" type="PyRemoteDebugConfigurationType" factoryName="Python Remote Debug">
+      <option name="PORT" value="0" />
+      <option name="HOST" value="localhost" />
+      <PathMappingSettings>
+        <option name="pathMappings">
+          <list />
+        </option>
+      </PathMappingSettings>
+      <option name="REDIRECT_OUTPUT" value="true" />
+      <option name="SUSPEND_AFTER_CONNECT" value="true" />
+    </configuration>
+    <configuration name="SpiderMarkSixData" type="PythonConfigurationType" factoryName="Python">
+      <module name="NumberPperiods" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PYDEVD_LOAD_VALUES_ASYNC" value="True" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/spider/spidermarksixdata.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="NumberPperiods" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="client" type="PythonConfigurationType" factoryName="Python">
+      <module name="NumberPperiods" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Other" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="false" />
+      <option name="ADD_SOURCE_ROOTS" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Other/slave.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="infinitecollision6" type="PythonConfigurationType" factoryName="Python">
+      <module name="NumberPperiods" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/formulaheader" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="false" />
+      <option name="ADD_SOURCE_ROOTS" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/formulaheader/infinitecollision6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="infinitecollision7client" type="PythonConfigurationType" factoryName="Python">
+      <module name="NumberPperiods" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/formulaheader" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="false" />
+      <option name="ADD_SOURCE_ROOTS" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/formulaheader/infinitecollision7client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="infinitecollision7server" type="PythonConfigurationType" factoryName="Python">
+      <module name="NumberPperiods" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/formulaheader" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="false" />
+      <option name="ADD_SOURCE_ROOTS" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/formulaheader/infinitecollision7server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python">
+      <module name="NumberPperiods" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PYDEVD_LOAD_VALUES_ASYNC" value="True" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/program.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python">
+      <module name="NumberPperiods" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Other" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="false" />
+      <option name="ADD_SOURCE_ROOTS" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Other/master.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="Python.AppEngineServer" factoryName="App Engine server">
+      <module name="NumberPperiods" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="/usr/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="host" value="127.0.0.1" />
+      <option name="browserUrl" value="" />
+      <option name="additionalOptions" value="" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.server" />
+      <item itemvalue="Python.SpiderMarkSixData" />
+      <item itemvalue="Python.infinitecollision7server" />
+      <item itemvalue="Python.client" />
+      <item itemvalue="Python.infinitecollision7client" />
+      <item itemvalue="Python.infinitecollision6" />
+      <item itemvalue="Python.main" />
+    </list>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de463ce5-3377-4bb6-b318-b0bf4edd100f" name="Default" comment="" />
+      <created>1501076646891</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1501076646891</updated>
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1513442363501</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1513442363502</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <created>1513679079237</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1513679079237</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update">
+      <created>1513762375351</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1513762375351</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update">
+      <created>1513785338240</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1513785338240</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update">
+      <created>1513850225431</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1513850225431</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update">
+      <created>1513850373500</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1513850373500</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update">
+      <created>1514219705154</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1514219705154</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update">
+      <created>1514220277902</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1514220277902</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update">
+      <created>1514282733947</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1514282733947</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update">
+      <created>1514304995778</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1514304995778</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update">
+      <created>1514359365522</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1514359365522</updated>
+    </task>
+    <task id="LOCAL-00012" summary="update">
+      <created>1514363581322</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1514363581322</updated>
+    </task>
+    <task id="LOCAL-00013" summary="update">
+      <created>1514363629767</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1514363629767</updated>
+    </task>
+    <task id="LOCAL-00014" summary="update">
+      <created>1514366880642</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1514366880642</updated>
+    </task>
+    <task id="LOCAL-00015" summary="update">
+      <created>1514369535849</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1514369535849</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="800" y="193" width="1623" height="992" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="4" sideWeight="0.26469004" weight="0.22665006" />
+      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.45767716" side_tool="true" weight="0.30962962" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" sideWeight="0.49811321" weight="0.2990249" />
+      <window_info anchor="bottom" id="Python Console" order="9" sideWeight="0.5305118" weight="0.40888888" />
+      <window_info anchor="bottom" x="0" y="152" width="1046" height="574" id="Run" order="5" sideWeight="0.47933072" side_tool="true" weight="0.4311111" />
+      <window_info anchor="right" id="Terminal" order="6" sideWeight="0.43367347" weight="0.20355731" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.4642857" weight="0.29147983" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" weight="0.328722" />
+      <window_info anchor="right" x="740" y="418" width="80" height="42" id="SciView" internal_type="SLIDING" order="4" sideWeight="0.6059565" type="WINDOWED" weight="0.36845347" />
+      <window_info id="Structure" order="1" sideWeight="0.5539972" side_tool="true" weight="0.20093216" />
+      <window_info id="Favorites" order="0" sideWeight="0.53571427" side_tool="true" weight="0.21583514" />
+      <window_info anchor="bottom" id="Debug" order="11" sideWeight="0.5206693" weight="0.6103704" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="3" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="5" />
+      <window_info anchor="right" x="0" y="0" width="590" height="1246" id="Documentation" order="7" sideWeight="0.5409505" weight="0.36254296" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.25461254" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="602" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>dd[1]['unusual_number']['number']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dd[1]['unusual_number']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dd[1]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dd[1]['six_number'][1]['number']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dd[1]['six_number'][1]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dd[1]['six_number'][1]['']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dd[1]['six_number'][0]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dd[1]['six_number']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dispatched_jobs.qsize()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Other/client.py" />
+    <entry file="file://$PROJECT_DIR$/src/Other/client.py" />
+    <entry file="file://$PROJECT_DIR$/src/Other/server.py" />
+    <entry file="file://$PROJECT_DIR$/src/Other/worker.py" />
+    <entry file="file:///usr/lib/python3.5/multiprocessing/pool.py" />
+    <entry file="file:///usr/lib/python3.5/queue.py" />
+    <entry file="file:///usr/lib/python3.5/multiprocessing/managers.py" />
+    <entry file="file:///usr/lib/python3.5/multiprocessing/connection.py" />
+    <entry file="file://C:/Python363/Lib/multiprocessing/spawn.py" />
+    <entry file="file://C:/Python363/Lib/runpy.py" />
+    <entry file="file://C:/Python363/Lib/multiprocessing/managers.py" />
+    <entry file="file://C:/Python363/Lib/multiprocessing/connection.py" />
+    <entry file="file://C:/Python363/Lib/multiprocessing/context.py" />
+    <entry file="file://C:/Python363/Lib/multiprocessing/process.py" />
+    <entry file="file://C:/Python363/Lib/multiprocessing/pool.py" />
+    <entry file="file://C:/Python363/Lib/codecs.py" />
+    <entry file="file:///usr/lib/python3.5/multiprocessing/context.py" />
+    <entry file="file://$PROJECT_DIR$/src/formulaheader/infinitecollision2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1745">
+          <caret line="569" column="69" lean-forward="true" selection-start-line="569" selection-start-column="46" selection-end-line="569" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/multiprocessing/managers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="56" column="8" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/multiprocessing/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="110" column="12" lean-forward="true" selection-start-line="110" selection-start-column="12" selection-end-line="110" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/formulaheader/infinitecollision6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2138">
+          <caret line="509" lean-forward="true" selection-start-line="509" selection-end-line="509" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/formulaheader/infinitecollision5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1418">
+          <caret line="540" lean-forward="true" selection-start-line="540" selection-end-line="540" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/formulaheader/infinitecollision4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="572" column="26" lean-forward="true" selection-start-line="572" selection-start-column="26" selection-end-line="572" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/formulaheader/killtail.txt" />
+    <entry file="file://$PROJECT_DIR$/src/formulaheader/killtail2.txt" />
+    <entry file="file://$PROJECT_DIR$/src/killmath/mathkillformula.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/formulaheader/infinitecollision7client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/function/formula.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/function/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="209" column="54" selection-start-line="209" selection-start-column="54" selection-end-line="209" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Documents/参考链接.txt" />
+    <entry file="file://$PROJECT_DIR$/src/function/marksixdata.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Documents/基础信息.txt" />
+    <entry file="file://$PROJECT_DIR$/recods/2016.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recods/2012.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recods/2017.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/Python363/Lib/json/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/recods/2018.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1070">
+          <caret selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recods/2001.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recods/2009.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recods/2010.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret column="1479" selection-start-column="1479" selection-end-column="1479" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recods/2000.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collisionmath/leftandright.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/formulaheader/infinitecollision7server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spider/spidermarksixdata.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#162#173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recods/allyeardata.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="32" column="49" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Other/master.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-221">
+          <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Other/job.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Other/slave.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/program.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recods/2002.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4836" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="448">
+            <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
